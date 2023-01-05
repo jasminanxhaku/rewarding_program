@@ -1,5 +1,4 @@
-target
-/.idea
+target/
+.idea/*
 /rewarding_program.iml
-/*.iml
-.idea
+*.iml
